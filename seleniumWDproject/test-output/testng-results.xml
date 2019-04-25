@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19331" started-at="2019-04-23T09:13:53Z" finished-at="2019-04-23T09:14:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19331" started-at="2019-04-23T09:13:53Z" finished-at="2019-04-23T09:14:12Z">
+      <class name="seleniumWDproject.TestMeAppRegister">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:seleniumWDproject.TestMeAppRegister@47c62251]" name="beforeClass" is-config="true" duration-ms="10222" started-at="2019-04-23T09:13:53Z" finished-at="2019-04-23T09:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testRegister()[pri:1, instance:seleniumWDproject.TestMeAppRegister@47c62251]" name="testRegister" duration-ms="2502" started-at="2019-04-23T09:14:03Z" finished-at="2019-04-23T09:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+        <test-method status="PASS" signature="TestLogin()[pri:2, instance:seleniumWDproject.TestMeAppRegister@47c62251]" name="TestLogin" duration-ms="431" started-at="2019-04-23T09:14:06Z" finished-at="2019-04-23T09:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:seleniumWDproject.TestMeAppRegister@47c62251]" name="testCart" duration-ms="4310" started-at="2019-04-23T09:14:06Z" finished-at="2019-04-23T09:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:seleniumWDproject.TestMeAppRegister@47c62251]" name="testPayment" duration-ms="1810" started-at="2019-04-23T09:14:11Z" finished-at="2019-04-23T09:14:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+      </class> <!-- seleniumWDproject.TestMeAppRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
